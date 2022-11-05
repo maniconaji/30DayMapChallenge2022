@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.defaultInterpreterPath": "C:/Users/manue/.conda/envs/geospatial/python.exe"
+}
